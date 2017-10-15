@@ -1,0 +1,28 @@
+  Rules for Page Object Model
+**********************************
+
+1. Create Every Page/Section of page as Individual classes
+2. All pages will have to inherit common Wrapper Methods
+3. All page class has to have constructor where you need to verify the page landed.
+4. Every verification/action on each element you perform should be a method of the page
+5. Every Method Should return the Page where it will Land.
+6. Store objects in common place (properties file)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
